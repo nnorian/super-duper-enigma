@@ -1,0 +1,1 @@
+in this project i am following the tootorials on the go language from their oficial site
